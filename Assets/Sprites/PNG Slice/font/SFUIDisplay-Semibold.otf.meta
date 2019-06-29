@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 2e831eb8c02c45d42b1d7285a7861aa3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF UI Display
+  fontNames:
+  - SF UI Display
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1a81ea92c3d5df641a2e43d7c811ab0c, type: 3}
+  - {fileID: 12800000, guid: 173c22e5bb694744692af3a06921c23f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
